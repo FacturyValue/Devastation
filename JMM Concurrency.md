@@ -148,7 +148,8 @@
 总结：JMM遵循的基本规则
 			只要不改变程序结果(指的是单线程程序和正确同步的多线程程序)，编译器和处理器怎么优化都行
 			
-https://www.processon.com/view/576cde74e4b03265640e7f42#map
+https://www.processon.com/view/576cde74e4b03265640e7f42#map  --->j.u.c思维导图
+http://www.codeceo.com/article/talk-about-concurrency.html   --->一个单例模式引发多线程的思考
 ```
 
 
